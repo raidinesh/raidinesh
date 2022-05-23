@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @raidinesh
-- 👀 I’m interested in working on open shource Projects
-- 🌱 I’m currently learning go ,Nodejs.blokchain
+- 👀 I’m interested in working on open source Projects
+- 🌱 I’m currently learning go ,Nodejs,blokchain
 - 💞️ I’m looking to collaborate on Open source project related to blokchain and IOT/AI
 - 📫 How to reach me ...
 
